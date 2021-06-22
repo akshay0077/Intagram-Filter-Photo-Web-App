@@ -6,13 +6,13 @@ const AccountInfo = () => {
   return (
     <div css={styles} className="accountInfo">
       <a
-        href="https://www.instagram.com/h3webdevtuts/"
+        href="https://www.instagram.com/akshay_kher007/"
         target="_blank"
         rel="noopener noreferrer"
         className="accountImg"
       >
         <img src={PhoneBg} alt="user" />
-        <p>h3webdevtuts</p>
+        <p>akshay_kher007</p>
       </a>
       <i className="fa fa-ellipsis-h"></i>
     </div>
